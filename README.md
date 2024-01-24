@@ -1,10 +1,15 @@
+<div>
+
 # Hi! 👋
 
 - Focused on transforming ideas into reality with a keyboard and a cup of coffee ☕
 - Aspiring to be a versatile developer with a mixed skill set derived from a DevOps background, adept in both backend and frontend wizardry 🪄
-- Shaping my digital space here (_currently under construction_): [sendrex.dev](https://sendrex.dev/) 🚧🧑‍🏭
+
+</div>
 
 ---
+
+<div>
 
 ### 💻 Programming languages
 
@@ -45,3 +50,5 @@
 <a href="https://www.rust-lang.org/"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white"></a>
 <a href="https://deno.com/"><img alt="Deno" src="https://img.shields.io/badge/Deno-111111.svg?logo=deno&logoColor=white"></a>
 <a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-222222.svg?logo=react&logoColor=white"></a>
+
+</div>
