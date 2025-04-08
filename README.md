@@ -2,31 +2,26 @@
 
 # Hi! 👋
 
-- Focused on transforming ideas into reality with a keyboard and a cup of coffee ☕
-- Aspiring to be a versatile developer with a mixed skill set derived from a DevOps background, adept in both backend and frontend wizardry 🪄
-
 </div>
-
----
 
 <div>
 
 
-### 💻 Programming languages
+### 💻 Languages
 
 <a href="https://www.typescriptlang.org/"><img alt="TypeScript" height="20" width="87" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&cacheSeconds=604800&logoColor=white"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" height="20" width="85" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&cacheSeconds=604800&logoColor=black"></a>
-<a href="https://nodejs.org/"><img alt="Node.js" height="20" width="69" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&cacheSeconds=604800&logoColor=white"></a>
 <a href="https://go.dev/"><img alt="Golang" height="20" width="67" src="https://img.shields.io/badge/Golang-00ADD8.svg?logo=go&cacheSeconds=604800&logoColor=white"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img alt="HTML5" height="20" width="59" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&cacheSeconds=604800&logoColor=white"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" height="20" width="51" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&cacheSeconds=604800&logoColor=white"></a>
 <a href="https://sass-lang.com/"><img alt="Sass/SCSS" height="20" width="53" src="https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&cacheSeconds=604800&logoColor=white"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL"><img alt="SQL" height="20" width="51" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=redis&cacheSeconds=604800&logoColor=white"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL"><img alt="SQL" height="20" width="51" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=mysql&cacheSeconds=604800&logoColor=white"></a>
 
 ### 📚 Frameworks and libraries
 
 <a href="https://angular.dev/"><img alt="Angular" height="20" width="71" src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&cacheSeconds=604800&logoColor=white"></a>
 <a href="https://rxjs.dev/"><img alt="RxJS" height="20" width="55" src="https://img.shields.io/badge/RxJS-%23B7178C.svg?logo=reactivex&cacheSeconds=604800&logoColor=white"></a>
+<a href="https://nodejs.org/"><img alt="Node.js" height="20" width="69" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&cacheSeconds=604800&logoColor=white"></a>
 <a href="https://material.angular.io/"><img alt="Material" height="20" width="73" src="https://img.shields.io/badge/Material-%23B7178C.svg?logo=material+design&cacheSeconds=604800&logoColor=white"></a>
 <a href="https://www.cypress.io/"><img alt="Cypress" height="20" width="71" src="https://img.shields.io/badge/Cypress-%23E5E5E5.svg?logo=cypress&cacheSeconds=604800&logoColor=058a5e"></a>
 <a href="https://jasmine.github.io/"><img alt="Jasmine" height="20" width="73" src="https://img.shields.io/badge/Jasmine-%238A4182.svg?logo=Jasmine&cacheSeconds=604800&logoColor=white"></a>
@@ -44,7 +39,7 @@
 <a href="https://github.com/"><img alt="GitHub" height="20" width="65" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&cacheSeconds=604800&logoColor=white"></a>
 <a href="https://about.gitlab.com/"><img alt="GitLab" height="20" width="63" src="https://img.shields.io/badge/GitLab-FC6D26.svg?logo=gitlab&cacheSeconds=604800&logoColor=white"></a>
 <a href="https://www.atlassian.com/es/software/jira"><img alt="Jira" height="20" width="47" src="https://img.shields.io/badge/Jira-0052CC.svg?logo=jira&cacheSeconds=604800&logoColor=white"></a>
-<a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" height="20" width="75" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&cacheSeconds=604800&logoColor=white"></a>
+<a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" height="20" width="130" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&cacheSeconds=604800&logoColor=white"></a>
 
 ### 🌱 Currently learning
 
